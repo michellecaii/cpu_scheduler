@@ -63,7 +63,3 @@ The program outputs the process state at each time unit into a file named `<inpu
 
 - Do not remove any provided fields in the `process_info` struct.
 - Feel free to add additional fields or functions as necessary for your specific scheduling needs.
-
-## Contributing
-
-Contributions to improve the simulation or add new features are welcome. Please ensure to maintain the coding standards and provide comments wherever necessary.
